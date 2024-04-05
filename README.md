@@ -10,4 +10,7 @@ Course link: [Transformer-based Language Models](https://moodle.zdv.uni-tuebinge
 [T5: a detailed explanation](https://medium.com/analytics-vidhya/t5-a-detailed-explanation-a0ac9bc53e51)<br>
 [PARAMETER-EFFICIENT FINE-TUNING](https://www.leewayhertz.com/parameter-efficient-fine-tuning/)<br>
 
+### Reference Books
+[Speech and Language Processing 3rd Draft](https://web.stanford.edu/~jurafsky/slp3/)
+
 
