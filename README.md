@@ -13,4 +13,11 @@ Course link: [Transformer-based Language Models](https://moodle.zdv.uni-tuebinge
 ### Reference Books
 [Speech and Language Processing 3rd Draft](https://web.stanford.edu/~jurafsky/slp3/)
 
+### M1: Unveiling Transformer Concepts
+### M2: Navigating LLMs
+### M3: Traning Strategies and Fine-Tuning Techniques
+### M4: Evaluation and Capabilities
+### M5: Real-World Applications of Transformers
+### M6: Ethical Considerations and Future Directions
+
 
